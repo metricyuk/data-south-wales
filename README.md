@@ -1,6 +1,6 @@
 # Data South Wales
 
-## About us
+## About the user group
 Croeso / Welcome to Data South Wales!
 
 This is an open group, aimed at anyone who works with or wants to learn more about data. There will be a leaning towards the Microsoft Data Platform covering all aspects of the Data Platform and areas such as programming languages and development principles. 
@@ -15,7 +15,7 @@ We're keen to get local speakers involved, sharing knowlege and insight from loc
 - [Meetup](https://www.meetup.com/data-south-wales/)
 
 ## Where we meet
-- [University of South Wales](https://www.google.co.uk/maps/place/University+of+South+Wales,+Cardiff+Campus/@51.4790475,-3.169905,19z/data=!4m15!1m8!3m7!1s0x486e1cb616132cd9:0x633d632e83af59f7!2sCardiff+CF24+2FN!3b1!8m2!3d51.478786!4d-3.1701424!16s%2Fg%2F1tg154q4!3m5!1s0x486e1cb621a0c843:0x80114efc7349a3bd!8m2!3d51.47901!4d-3.169362!16s%2Fg%2F11b5pjjvqq)
+- [University of South Wales, Cardiff Campus](https://www.google.co.uk/maps/place/University+of+South+Wales,+Cardiff+Campus/@51.4790475,-3.169905,19z/data=!4m15!1m8!3m7!1s0x486e1cb616132cd9:0x633d632e83af59f7!2sCardiff+CF24+2FN!3b1!8m2!3d51.478786!4d-3.1701424!16s%2Fg%2F1tg154q4!3m5!1s0x486e1cb621a0c843:0x80114efc7349a3bd!8m2!3d51.47901!4d-3.169362!16s%2Fg%2F11b5pjjvqq)
 
 ## Social profiles
 - [Twitter](https://twitter.com/DataSouthWales)
