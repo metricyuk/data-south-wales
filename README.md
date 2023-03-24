@@ -20,7 +20,7 @@ We're keen to get local speakers involved, sharing knowlege and insight from loc
 ## Social profiles
 - [Twitter](https://twitter.com/DataSouthWales)
 
-## Our organisers
+## Our organisers
 - [Justin](https://link.metricy.uk/Justin)
 - [Ryan](https://link.metricy.uk/Ryan)
 
